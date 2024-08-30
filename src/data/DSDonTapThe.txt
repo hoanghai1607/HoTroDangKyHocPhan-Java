@@ -1,0 +1,5 @@
+DTT004,SV002,IT6019,Lập trình Java,học vượt,q,q,q,a,a,a,z,z,z,t,t,t,y,y,y,s,s,s,Có 1 lớp được mở
+DTT005,ADMIN001,IT6015,Kỹ thuật lập trình,học cải thiện,SV009,Nguyễn Văn Khải,Công nghệ thông tin,Không có lớp nào được mở
+DTT006,SV001,IT6012,Hệ quản trị cơ sở dữ liệu,học vượt,SV012,Nguyễn Thị Liệu,Hệ thống thông tin,Không có lớp nào được mở
+DTT002,SV001,IT6011,Nhập môn về kỹ thuật,Học vượt,SV003,Nguyễn Văn Mạnh,Hệ thống thông tin,SV004,Nguyễn Hoài Sơn,Công nghệ thông tin,SV007,Nguyễn Thị Phương,Kỹ thuật phần mềm,Có 1 lớp được mở
+DTT003,SV002,IT6011,Nhập môn về kỹ thuật,Học vượt,SV007,Nguyễn Phương Nam,Hệ thống thông tin,Chưa duyệt

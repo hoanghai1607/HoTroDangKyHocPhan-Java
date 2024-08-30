@@ -1,0 +1,39 @@
+IT6011	Nhập môn về kỹ thuật	2
+IT6006	Cơ sở dữ liệu	3
+IT6014	Kiến trúc máy tính	3
+IT6015	Kỹ thuật lập trình	3
+IT6039	Thiết kế Web	3
+IT6002	Cấu trúc dữ liệu và giải thuật	3
+IT6012	Hệ quản trị cơ sở dữ liệu 3
+IT6018	Lập trình hướng đối tượng	3
+IT6025	Nguyên lý hệ điều hành	3
+IT6082	Nhập môn công nghệ phần mềm	3
+IT6055	Thực tập cơ sở ngành	3
+IT6023	Mạng máy tính	3
+IT6097	Phân tích và đặc tả yêu cầu phần mềm	3
+IT6043	Trí tuệ nhân tạo	3
+IT6001	An toàn và bảo mật thông tin	3
+IT6096	Thiết kế phần mềm	3
+IT6033	Quản lý dự án công nghệ thông tin	3
+IT6032	Phương pháp số trong lập trình	3
+IT6036	Tối ưu hóa  3
+IT6007	Cơ sở lập trình nhúng	3
+IT6010	Đồ họa máy tính	3
+IT6057	Phát triển ứng dụng thương mại điện tử	3
+IT6056	Quản trị mạng trên hệ điều hành Windows	3
+IT6044	Ứng dụng thuật toán	3
+IT6017	Lập trình .NET	3
+IT6013	Kiểm thử phần mềm	3
+IT6019	Lập trình Java	3
+IT6059	Thực tập chuyên ngành Hệ thống thông tin	3
+IT6058	Hệ hỗ trợ quyết định	3
+IT6034	Tích hợp hệ thống phần mềm	3
+IT6004	Công nghệ đa phương tiện	3
+IT6061	Hệ quản trị doanh nghiệp điện tử	3
+IT6060	Lập trình hệ thống nhúng và Internet vạn vật	3
+IT6020	Lập trình Java nâng cao	3
+IT6021	Lập trình Web bằng ASP.NET	3
+IT6022	Lập trình web bằng PHP	3
+IT6030	Phần mềm mã nguồn mở	3
+IT6028	Phát triển ứng dụng Game	3
+IT6029	Phát triển ứng dụng trên thiết bị di động	3
